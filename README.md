@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @franceman22
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+0x5E1A40bb1944566cdDFcBc164E4287bCB53372e1
+
+<!---
+franceman22/franceman22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
